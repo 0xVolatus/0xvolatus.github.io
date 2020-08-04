@@ -46,3 +46,17 @@ Upon entering it, you should see the changes that you have made to your files. Y
 Once you have committed all your changes, all that's left to do is to push them to your repository! You can easily do so by pressing the menu button and selecting push.
 
 ![Pushing Changes](Pushing.png)
+
+Congratulations! You have now set up GitHub to work perfectly with Visual Studio Code :) However, you may still run into some problems here and there when you changes are performed on other machines. Therefore, we should also set up our Git Bash terminal in VSC!
+
+### Setting up Git Bash on VSC
+Open the command palette and search for Default Terminal. Select it, and choose Bash to be your default. Once you have completed the step, launching a new terminal will bring up a bash terminal! How splendid.
+
+![Bash Terminal](Bash.png)
+
+This is one of the most critical commands that you will need to commit to memory. In essence, it is a combination of fetching and merging the remote repository with your local repository. This command is: ```git pull```. Here's the syntax:
+```
+git pull (remoterepositorylink)
+```
+
+Entering that command will retrieve all the changes from the remote repository and merge if with the repository on your computer. 
