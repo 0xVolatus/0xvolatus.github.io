@@ -6,3 +6,10 @@ The first step is to, of course, download [Git](https://git-scm.com/downloads). 
 
 ![Select VSC as Git's Default Editor](VSC%20Selected.png)
 
+### Setting up Git
+You will need perform some initial set up for Git. If you do not perform this step, you will not be able to use Git with VS Code. Open up the Git Bash program. You will see a terminal. In it, enter the following commands:
+
+```
+git config --global user.name "yourusername"
+git config --global user.email youremail@email.com
+```
