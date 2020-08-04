@@ -13,3 +13,6 @@ You will need perform some initial set up for Git. If you do not perform this st
 git config --global user.name "yourusername"
 git config --global user.email youremail@email.com
 ```
+That's all there is to setting up Git!
+
+### Preparing Visual Studio Code
