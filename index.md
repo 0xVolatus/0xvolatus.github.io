@@ -48,7 +48,7 @@ You are now ready to commit any changes you have made to your repository! Click 
 
 Upon entering it, you should see the changes that you have made to your files. You can choose to stage specific changes, or stage and commit all of them by pressing the Tick symbol and pressing Yes or Always on the pop up.
 
-![Staging and Committing](/Using%20GitHub%20with%20VSCode/Staging%20And%20Committing.png)
+![Staging and Committing](/Using%20GitHub%20with%20VSCode/Staging%20and%20Committing.png)
 
 Once you have committed all your changes, all that's left to do is to push them to your repository! You can easily do so by pressing the menu button and selecting push.
 
