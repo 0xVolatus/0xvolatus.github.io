@@ -1,7 +1,11 @@
 # 0xParadoxic | 0xParoxystique
+These are my aliases (Paradoxic / Paroxystique), which I prefer to be identified by online. I am 20 this year, currently studying to be a penetration tester. I love joining Capture the Flag events and would post my write ups whenever time permits me.
+
+The index page of my GitHub pages website will be used for random stuff that I do not want to Google again (which may also be useful to others). My Write Ups will be on separate pages, which I will link under this segment.
 
 ## Latest Articles:
-[Using GitHub with VSCode](GitHub%20and%20VSCode.md)
+[Using GitHub with VSCode](https://paroxystique.github.io/)
+[Hacktivity 2020 Writeup](https://paroxystique.github.io/Hacktivity-2020/)
 
 ---
 
