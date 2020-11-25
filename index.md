@@ -4,8 +4,8 @@ These are my aliases (Paradoxic / Paroxystique), which I prefer to be identified
 The index page of my GitHub pages website will be used for random stuff that I do not want to Google again (which may also be useful to others). My Write Ups will be on separate pages, which I will link under this segment.
 
 ## Latest Articles:
-[Using GitHub with VSCode](https://paroxystique.github.io/)  
-[Hacktivity 2020 Writeup](https://paroxystique.github.io/Hacktivity-2020/)
+[Using GitHub with VSCode](https://0xvolatus.github.io/)  
+[Hacktivity 2020 Writeup](https://0xvolatus.github.io/Hacktivity-2020/)
 
 ---
 
